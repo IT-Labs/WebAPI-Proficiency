@@ -1,0 +1,59 @@
+2020-04-28 21:18:13.260 +02:00 [INF] User profile is available. Using 'C:\Users\aleksandra.gjinovska\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-28 21:18:13.656 +02:00 [INF] Now listening on: https://localhost:5001
+2020-04-28 21:18:13.659 +02:00 [INF] Now listening on: http://localhost:5000
+2020-04-28 21:18:13.661 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-04-28 21:18:13.663 +02:00 [INF] Hosting environment: Development
+2020-04-28 21:18:13.664 +02:00 [INF] Content root path: C:\MonthOfSession\WebApplication\WebApplication
+2020-04-28 21:18:15.345 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2020-04-28 21:18:15.398 +02:00 [INF] Request finished in 55.2837ms 200 text/html;charset=utf-8
+2020-04-28 21:18:15.889 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2020-04-28 21:18:15.981 +02:00 [INF] Request finished in 92.2146ms 200 application/json;charset=utf-8
+2020-04-28 21:18:25.766 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/WeatherForecast  
+2020-04-28 21:18:25.793 +02:00 [INF] Executing endpoint 'WebApplication.Controllers.WeatherForecastController.Get (WebApplication)'
+2020-04-28 21:18:25.819 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication.WeatherForecast] Get() on controller WebApplication.Controllers.WeatherForecastController (WebApplication).
+2020-04-28 21:18:25.882 +02:00 [INF] Executing action method WebApplication.Controllers.WeatherForecastController.Get (WebApplication) - Validation state: "Valid"
+2020-04-28 21:18:25.892 +02:00 [INF] Executed action method WebApplication.Controllers.WeatherForecastController.Get (WebApplication), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.0658ms.
+2020-04-28 21:18:25.899 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication.WeatherForecast[]'.
+2020-04-28 21:18:25.909 +02:00 [INF] Executed action WebApplication.Controllers.WeatherForecastController.Get (WebApplication) in 84.3653ms
+2020-04-28 21:18:25.912 +02:00 [INF] Executed endpoint 'WebApplication.Controllers.WeatherForecastController.Get (WebApplication)'
+2020-04-28 21:18:25.913 +02:00 [INF] Request finished in 147.2681ms 200 application/json; charset=utf-8
+2020-04-28 21:23:49.661 +02:00 [INF] User profile is available. Using 'C:\Users\aleksandra.gjinovska\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-28 21:23:50.042 +02:00 [INF] Now listening on: https://localhost:5001
+2020-04-28 21:23:50.045 +02:00 [INF] Now listening on: http://localhost:5000
+2020-04-28 21:23:50.066 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-04-28 21:23:50.067 +02:00 [INF] Hosting environment: Development
+2020-04-28 21:23:50.067 +02:00 [INF] Content root path: C:\MonthOfSession\WebApplication\WebApplication
+2020-04-28 21:23:51.662 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2020-04-28 21:23:51.713 +02:00 [INF] Request finished in 54.3965ms 200 text/html;charset=utf-8
+2020-04-28 21:23:52.175 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2020-04-28 21:23:52.261 +02:00 [INF] Request finished in 86.1119ms 200 application/json;charset=utf-8
+2020-04-28 21:23:57.613 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/WeatherForecast  
+2020-04-28 21:23:57.635 +02:00 [INF] Executing endpoint 'WebApplication.Controllers.WeatherForecastController.Get (WebApplication)'
+2020-04-28 21:23:57.659 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication.WeatherForecast] Get() on controller WebApplication.Controllers.WeatherForecastController (WebApplication).
+2020-04-28 21:23:57.719 +02:00 [INF] Executing action method WebApplication.Controllers.WeatherForecastController.Get (WebApplication) - Validation state: "Valid"
+2020-04-28 21:23:57.725 +02:00 [INF] {@weather}
+2020-04-28 21:23:57.731 +02:00 [INF] Executed action method WebApplication.Controllers.WeatherForecastController.Get (WebApplication), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 4.017ms.
+2020-04-28 21:23:57.738 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication.WeatherForecast[]'.
+2020-04-28 21:23:57.747 +02:00 [INF] Executed action WebApplication.Controllers.WeatherForecastController.Get (WebApplication) in 82.2158ms
+2020-04-28 21:23:57.749 +02:00 [INF] Executed endpoint 'WebApplication.Controllers.WeatherForecastController.Get (WebApplication)'
+2020-04-28 21:23:57.750 +02:00 [INF] Request finished in 136.7224ms 200 application/json; charset=utf-8
+2020-04-28 21:26:28.982 +02:00 [INF] User profile is available. Using 'C:\Users\aleksandra.gjinovska\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-28 21:26:29.342 +02:00 [INF] Now listening on: https://localhost:5001
+2020-04-28 21:26:29.344 +02:00 [INF] Now listening on: http://localhost:5000
+2020-04-28 21:26:29.346 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-04-28 21:26:29.346 +02:00 [INF] Hosting environment: Development
+2020-04-28 21:26:29.347 +02:00 [INF] Content root path: C:\MonthOfSession\WebApplication\WebApplication
+2020-04-28 21:26:31.056 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2020-04-28 21:26:31.126 +02:00 [INF] Request finished in 74.3245ms 200 text/html;charset=utf-8
+2020-04-28 21:26:31.731 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2020-04-28 21:26:31.817 +02:00 [INF] Request finished in 86.6798ms 200 application/json;charset=utf-8
+2020-04-28 21:26:38.498 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/WeatherForecast  
+2020-04-28 21:26:38.528 +02:00 [INF] Executing endpoint 'WebApplication.Controllers.WeatherForecastController.Get (WebApplication)'
+2020-04-28 21:26:38.555 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication.WeatherForecast] Get() on controller WebApplication.Controllers.WeatherForecastController (WebApplication).
+2020-04-28 21:26:38.622 +02:00 [INF] Executing action method WebApplication.Controllers.WeatherForecastController.Get (WebApplication) - Validation state: "Valid"
+2020-04-28 21:26:38.633 +02:00 [INF] {"Date":"2020-04-29T21:26:38.6284277+02:00","TemperatureC":20,"TemperatureF":67,"Summary":"for logging purposes","$type":"WeatherForecast"}
+2020-04-28 21:26:38.644 +02:00 [INF] Executed action method WebApplication.Controllers.WeatherForecastController.Get (WebApplication), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 13.1634ms.
+2020-04-28 21:26:38.650 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication.WeatherForecast[]'.
+2020-04-28 21:26:38.661 +02:00 [INF] Executed action WebApplication.Controllers.WeatherForecastController.Get (WebApplication) in 95.3153ms
+2020-04-28 21:26:38.664 +02:00 [INF] Executed endpoint 'WebApplication.Controllers.WeatherForecastController.Get (WebApplication)'
+2020-04-28 21:26:38.664 +02:00 [INF] Request finished in 166.6677ms 200 application/json; charset=utf-8
